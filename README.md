@@ -2,7 +2,7 @@
 
 ### MSc in computer science
 
-- 🌱 I'm currently learning **Natural language processing**
+- 🌱 I'm currently learning **Natural language processing and distributed system**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
