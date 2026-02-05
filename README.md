@@ -1,6 +1,6 @@
 # Hi 👋, I'm charlotte WU
 
-### MSc in computer science
+### MSc in computer science at UoE
 
 - 🌱 I'm currently learning **Natural language processing and distributed system**
 
