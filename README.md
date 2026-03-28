@@ -21,7 +21,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Neural Esports Commentary Generation** *(WIP)* | LoL match commentary from structured gameplay logs | Python, Transformers |
+| **[Neural Esports Commentary Generation](https://github.com/char-WU/lol2text)** | LoL match commentary from structured gameplay logs | Python, Transformers |
 | **[Faultless Document Reviewer](https://github.com/uoa-compsci399-2025-s1/capstone-project-2025-s1-team-16.git)** | Annotates Word reports with AI-checked, rule-based issues; Gemini + RAG for grounded analysis | Python, LangChain, ChromaDB |
 | **[AFS-style Distributed Filesystem](https://github.com/Shanmin123/Fault-Tolerant-AFS-like-DFS.git)** | Fault-tolerant distributed storage with consensus-based replication | Python, Raft |
 
