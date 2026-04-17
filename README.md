@@ -2,7 +2,7 @@
 
 ### MSc in computer science at UoE
 
-- 🌱 I'm currently learning **Machine learning and GPU programming**
+- 🌱 I'm currently learning **GraphRAG**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yufei-charlotte-wu/)
 
