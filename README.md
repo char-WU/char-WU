@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yufei Wu (Charlotte)
 
-### MSc in computer science at UoE
+### MSc in computer science at The University of Edinburgh
 
 - 🌱 I'm currently learning **GraphRAG**
 - Currently working on research in **AI-assisted knowledge retrieval and reasoning**
