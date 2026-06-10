@@ -5,6 +5,7 @@
 - 🌱 I'm currently learning **GraphRAG**
 - Currently working on research in **AI-assisted knowledge retrieval and reasoning**
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292F?style=flat\&logo=githubpages\&logoColor=white)](https://char-wu.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yufei-charlotte-wu/)
 
 ---
